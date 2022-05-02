@@ -16,7 +16,7 @@ Possesses diverse experience of creating multiple highly scalable applications u
 Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
 <p align="center">
-  <a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;Pixel%20Perfect%20UI/UX%20Designer;5+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;Pixel%20Perfect%20UI/UX%20Designer;Versatile%20Full%20Stack%20Developer%2012%2B%20years%20of%20experience%20;&center=true&width=800&height=45"></a>
 </p>
 
 ## Hightlights
