@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://triplebyte.com/company/our-talent/full-stack-developer?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://nite.ac.bd/wp-content/uploads/2020/09/Full-Stack-Development.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
