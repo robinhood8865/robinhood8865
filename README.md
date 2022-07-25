@@ -1,10 +1,9 @@
 
-<div>
-<a href="https://app.daily.dev/robinhood8865"><img src="https://api.daily.dev/devcards/8224c0bc46a54ae5a2efe478b2d4575a.png?r=mcg" float=left width="200" alt="Robin Hood's Dev Card"/></a>  
-  <p align="right">
-  <img align="center" src="https://nite.ac.bd/wp-content/uploads/2020/09/Full-Stack-Development.png?raw=true" float=right style = "width: -webkit-fill-available;"/>
+  <p align="center">
+   
+  <img align="center" src="https://nite.ac.bd/wp-content/uploads/2020/09/Full-Stack-Development.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
-  </div>
+
 
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -12,6 +11,7 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
   <a href="https://join.skype.com/invite/xIY81FvbH999"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&logo=skype&logoColor=important&message=Contact%20me&style=style=flat&color=important" alt="Badge"/></a>
 </h1>
+ <a href="https://app.daily.dev/robinhood8865"><img src="https://api.daily.dev/devcards/8224c0bc46a54ae5a2efe478b2d4575a.png?r=mcg" align="left" width="150" alt="Robin Hood's Dev Card"/></a>  
 <img align="right" width="220" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding2.gif" />
   <p>
 &nbsp;Versatile Full Stack Developer with 12+ years of experience designing, developing, and managing complex e-commerce sites and internal frameworks.
