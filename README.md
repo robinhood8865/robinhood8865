@@ -1,8 +1,11 @@
 
-<a href="https://app.daily.dev/robinhood8865"><img src="https://api.daily.dev/devcards/8224c0bc46a54ae5a2efe478b2d4575a.png?r=mcg" width="400" alt="Robin Hood's Dev Card"/></a>
-<p align="center">
-  <img align="center" src="https://nite.ac.bd/wp-content/uploads/2020/09/Full-Stack-Development.png?raw=true" style = "width: -webkit-fill-available;"/>
+<div>
+<a href="https://app.daily.dev/robinhood8865"><img src="https://api.daily.dev/devcards/8224c0bc46a54ae5a2efe478b2d4575a.png?r=mcg" float=left width="200" alt="Robin Hood's Dev Card"/></a>  
+  <p align="right">
+  <img align="center" src="https://nite.ac.bd/wp-content/uploads/2020/09/Full-Stack-Development.png?raw=true" float=right style = "width: -webkit-fill-available;"/>
 </p>
+  </div>
+
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=white" alt="website"/></a>
